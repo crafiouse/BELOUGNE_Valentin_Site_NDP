@@ -1,0 +1,218 @@
+.mediaViewInfo {
+	--web-view-name: lycee;
+	--web-view-id: lycee;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: lycee;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#lycee {
+	position: absolute;
+	width: 2300px;
+	height: 3627px;
+	background-color: rgba(237,237,237,1);
+	overflow: hidden;
+	--web-view-name: lycee;
+	--web-view-id: lycee;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_7 {
+	fill: rgba(176,212,210,1);
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 1764px;
+	height: 2076px;
+	left: 268px;
+	top: 1295px;
+}
+#NoPath_-_Copie {
+	position: absolute;
+	width: 209px;
+	height: 177px;
+	left: 1042px;
+	top: 30px;
+	overflow: visible;
+}
+#Image_4 {
+	filter: drop-shadow(0px 15px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 1083px;
+	height: 758px;
+	left: 605px;
+	top: 405px;
+	overflow: visible;
+}
+#Ici_votre_adolescent_pourra_pl {
+	left: 425px;
+	top: 2486px;
+	position: absolute;
+	overflow: visible;
+	width: 643px;
+	height: 255px;
+	line-height: 70px;
+	margin-top: -18.5px;
+	text-align: left;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 33px;
+	color: rgba(112,112,112,1);
+}
+#Notre_lyce_prime_sur_les_autre {
+	left: 751px;
+	top: 240px;
+	position: absolute;
+	overflow: visible;
+	width: 791px;
+	height: 136px;
+	text-align: center;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 33px;
+	color: rgba(112,112,112,1);
+}
+#Vous_y_trouverez_une_grande_qu {
+	left: 437px;
+	top: 1464px;
+	position: absolute;
+	overflow: visible;
+	width: 501px;
+	height: 315px;
+	line-height: 70px;
+	margin-top: -18.5px;
+	text-align: left;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 33px;
+	color: rgba(112,112,112,1);
+}
+#Votre_enfant_aura_donc_la_poss {
+	left: 1251px;
+	top: 1990px;
+	position: absolute;
+	overflow: visible;
+	width: 568px;
+	height: 272px;
+	line-height: 70px;
+	margin-top: -18.5px;
+	text-align: right;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 33px;
+	color: rgba(112,112,112,1);
+}
+#Au_seins_de_notre_infrastructu {
+	left: 1244px;
+	top: 2988px;
+	position: absolute;
+	overflow: visible;
+	width: 595px;
+	height: 255px;
+	line-height: 70px;
+	margin-top: -18.5px;
+	text-align: right;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 33px;
+	color: rgba(112,112,112,1);
+}
+#Rectangle_12 {
+	fill: rgba(145,192,238,1);
+}
+.Rectangle_12 {
+	filter: drop-shadow(6px 6px 6px rgba(145, 192, 238, 1));
+	position: absolute;
+	overflow: visible;
+	width: 355px;
+	height: 148px;
+	left: 437px;
+	top: 3429px;
+}
+#accueil {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 482px;
+	top: 3456px;
+	position: absolute;
+	overflow: visible;
+	width: 254px;
+	height: 75px;
+	text-align: center;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(112,112,112,1);
+}
+#Rectangle_13 {
+	fill: rgba(145,192,238,1);
+}
+.Rectangle_13 {
+	filter: drop-shadow(6px 6px 6px rgba(145, 192, 238, 1));
+	position: absolute;
+	overflow: visible;
+	width: 355px;
+	height: 148px;
+	left: 1520px;
+	top: 3429px;
+}
+#collge_ {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1565px;
+	top: 3456px;
+	position: absolute;
+	overflow: hidden;
+	width: 254px;
+	height: 75px;
+	text-align: center;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(112,112,112,1);
+}
+#Image_5 {
+	position: absolute;
+	width: 609px;
+	height: 457px;
+	left: 1209px;
+	top: 1357px;
+	overflow: visible;
+}
+#Image_10 {
+	position: absolute;
+	width: 561px;
+	height: 421px;
+	left: 437px;
+	top: 1915px;
+	overflow: visible;
+}
+#Image_11 {
+	position: absolute;
+	width: 574.126px;
+	height: 430.594px;
+	left: 1243.874px;
+	top: 2398.203px;
+	overflow: visible;
+}
+#Image_12 {
+	position: absolute;
+	width: 717px;
+	height: 403px;
+	left: 377px;
+	top: 2914px;
+	overflow: visible;
+}

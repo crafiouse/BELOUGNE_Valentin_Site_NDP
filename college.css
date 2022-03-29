@@ -1,0 +1,209 @@
+.mediaViewInfo {
+	--web-view-name: collège;
+	--web-view-id: collge;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: collge;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#collge {
+	position: absolute;
+	width: 2300px;
+	height: 3167px;
+	background-color: rgba(237,237,237,1);
+	overflow: hidden;
+	--web-view-name: collège;
+	--web-view-id: collge;
+	--web-enable-deep-linking: true;
+}
+#NoPath_-_Copie {
+	position: absolute;
+	width: 209px;
+	height: 177px;
+	left: 1046px;
+	top: 30px;
+	overflow: visible;
+}
+#Rectangle_3 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 6px;
+	height: 1px;
+	left: 1367px;
+	top: 613px;
+}
+#Lemplacement_de_notre_collge_e {
+	left: 755px;
+	top: 240px;
+	position: absolute;
+	overflow: visible;
+	width: 791px;
+	height: 135px;
+	text-align: center;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 33px;
+	color: rgba(112,112,112,1);
+}
+#Image_13 {
+	filter: drop-shadow(0px 15px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 1083px;
+	height: 738px;
+	left: 609px;
+	top: 408px;
+	overflow: visible;
+}
+#Rectangle_14 {
+	fill: rgba(188,212,176,1);
+}
+.Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 1764px;
+	height: 1662px;
+	left: 268px;
+	top: 1295px;
+}
+#Notre_collge_propose_une_intgr {
+	left: 350px;
+	top: 1423px;
+	position: absolute;
+	overflow: visible;
+	width: 793px;
+	height: 325px;
+	line-height: 70px;
+	margin-top: -18.5px;
+	text-align: left;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 33px;
+	color: rgba(112,112,112,1);
+}
+#Image_14 {
+	position: absolute;
+	width: 635px;
+	height: 476px;
+	left: 1270px;
+	top: 1348px;
+	overflow: visible;
+}
+#Nous_proposons_une_prise_en_ch {
+	left: 1150px;
+	top: 1969px;
+	position: absolute;
+	overflow: visible;
+	width: 754px;
+	height: 339px;
+	line-height: 70px;
+	margin-top: -18.5px;
+	text-align: right;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 33px;
+	color: rgba(112,112,112,1);
+}
+#Image_15 {
+	position: absolute;
+	width: 735px;
+	height: 383px;
+	left: 350px;
+	top: 1947px;
+	overflow: visible;
+}
+#Pour_garantir_une_russite_de_v {
+	left: 350px;
+	top: 2448px;
+	position: absolute;
+	overflow: visible;
+	width: 725px;
+	height: 325px;
+	line-height: 70px;
+	margin-top: -18.5px;
+	text-align: left;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 33px;
+	color: rgba(112,112,112,1);
+}
+#Image_16 {
+	position: absolute;
+	width: 698px;
+	height: 466px;
+	left: 1207px;
+	top: 2378px;
+	overflow: visible;
+}
+#Rectangle_13 {
+	fill: rgba(145,192,238,1);
+}
+.Rectangle_13 {
+	filter: drop-shadow(6px 6px 6px rgba(145, 192, 238, 1));
+	position: absolute;
+	overflow: visible;
+	width: 355px;
+	height: 148px;
+	left: 381px;
+	top: 2985px;
+}
+#accueil_ {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 423px;
+	top: 3012px;
+	position: absolute;
+	overflow: hidden;
+	width: 254px;
+	height: 75px;
+	text-align: center;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(112,112,112,1);
+}
+#Rectangle_15 {
+	fill: rgba(145,192,238,1);
+}
+.Rectangle_15 {
+	filter: drop-shadow(6px 6px 6px rgba(145, 192, 238, 1));
+	position: absolute;
+	overflow: visible;
+	width: 355px;
+	height: 148px;
+	left: 1588px;
+	top: 2985px;
+}
+#lyce_ {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1633px;
+	top: 3012px;
+	position: absolute;
+	overflow: hidden;
+	width: 254px;
+	height: 75px;
+	text-align: center;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(112,112,112,1);
+}
